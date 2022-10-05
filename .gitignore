@@ -1,0 +1,4 @@
+data/
+prediction_results/
+saved_models
+.DS_Store
